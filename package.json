@@ -1,6 +1,6 @@
 {
   "name": "@ancap/default-token-list",
-  "version": "24.30.0",
+  "version": "1.0.0",
   "description": "◦ The Ancap default token list",
   "main": "build/ancap-default.tokenlist.json",
   "scripts": {
